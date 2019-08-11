@@ -1,0 +1,2 @@
+- Project này được mình làm theo hướng dẫn trên đường link sau: https://www.youtube.com/watch?v=7MWDiCStLPQ&list=PLzrVYRai0riSRJ3M3bifVWWRq5eJMu6tv&index=34
+- Project này lúc trước là App SetRandomWallpaper nhưng do hứng lên nên mình đổi qua viết thành cái game này mà không tạo project mới.
